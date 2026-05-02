@@ -1,0 +1,46 @@
+# Python environment
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+activate.ps1
+pyvenv.cfg
+pip-selfcheck.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (CSV outputs from testing/analysis)
+*.csv
+
+# Screenshots and plots
+screenshots/
+plots/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
