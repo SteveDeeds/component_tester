@@ -4,3 +4,5 @@ pyqtgraph>=0.13
 qt-material>=2.14
 pandas>=2.0
 scipy>=1.11
+matplotlib>=0
+matplotlib>=3.5.0
